@@ -1,5 +1,6 @@
 # ReactJS-demo
-***** **See master branch** *****
+
+[ ***** **See master branch** ***** ]
 
 **This project is my first ReactJS simple demonstration project.
 **
