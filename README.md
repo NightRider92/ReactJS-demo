@@ -2,8 +2,8 @@
 
 [ ***** **See master branch** ***** ]
 
-**This project is my first ReactJS simple demonstration project.
-**
+This project is my first ReactJS simple demonstration project.
+
 
 The purpose of this project is to demonstrate my ability of switching from embedded engineering 
 to web application development in a short time.
